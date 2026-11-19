@@ -1,8 +1,9 @@
 p{
-
-    background-color: rosybrown;
+    
+    color: pink;
+    background-color: rgba(179, 143, 188, 0.603);
 
 }
 h1{
-    color: red;
+    color: rgba(255, 0, 85, 0.507);
 }
